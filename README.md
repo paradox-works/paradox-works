@@ -1,16 +1,17 @@
-## Hi there 👋
+# Paradox Works
+Build log for Wings of Paradox — ML/AI learning + projects shipped in public.
 
-<!--
-**paradox-works/paradox-works** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I’m building
+- LLM/RAG mini-apps
+- End-to-end ML projects (train → evaluate → inference)
+- MLOps basics (APIs, Docker, CI)
 
-Here are some ideas to get you started:
+### Featured projects (coming soon)
+- RAG Mini App
+- End-to-End ML Pipeline
+- FastAPI Model Serving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+YouTube: [@WingsofParadox](https://www.youtube.com/@WingsofParadox)
+
+
